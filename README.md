@@ -1,4 +1,4 @@
-🛰️ Log Monitoring Microservices (Filebeat + Logstash + Node.js + PostgreSQL)
+🛰️ Log Monitoring Microservices (Filebeat + Logstash + Node.js + MySQL)
 
 Bu proje, sunuculardan gerçek zamanlı log toplayıp merkezi bir dashboard üzerinden izlemeyi sağlayan mikroservis tabanlı bir log izleme altyapısıdır.
 Sistem; Filebeat → Logstash → Node.js API → PostgreSQL → Vue Dashboard akışıyla çalışır.
